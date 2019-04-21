@@ -1,0 +1,12 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShailenNaidoo/ts-template.git",
+  "author": "Shailen <shailen@gettruck.co.za>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.4"
+  }
+}
